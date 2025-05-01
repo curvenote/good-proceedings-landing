@@ -1,0 +1,22 @@
+version: 1
+site:
+  title: GOOD Conference Proceedings
+  options:
+    logo_text: GOOD
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - good-proceedings_landing.curve.space
+project:
+  title: GOOD Conference Proceedings
+  description: The Proceedings of the Global Open OnDemand (GOOD) Conference
+  short_title: ''
+  keywords: []
+  name: landing
+  open_access: true
+  license: {}
+  subject: GOOD Conference Proceedings
+  toc:
+    - file: index.md
