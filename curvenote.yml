@@ -20,3 +20,7 @@ project:
   subject: GOOD Conference Proceedings
   toc:
     - file: index.md
+    - file: 2025.md
+    - file: about.md
+  plugins:
+    - lorem.mjs
