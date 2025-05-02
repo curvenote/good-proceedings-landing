@@ -21,6 +21,7 @@ project:
   toc:
     - file: index.md
     - file: 2025.md
+    - file: author-instructions.md
     - file: about.md
   plugins:
     - lorem.mjs
