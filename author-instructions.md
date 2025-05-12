@@ -23,13 +23,13 @@ To make your submission follow the instructions on the proceedings GitHub repo: 
 
 ## LaTeX
 
-Although we can accept submissions in LaTeX, the build system for your article will still be missed markdown. MyST allows markdown (`.md`) and/or `.tex` files to be used interchangeably in your article, so you can write in LaTeX while using the `myst` and `curvenote` command line tools to build and preview your article. Find out more about LaTeX support in MyST Markdown here: https://mystmd.org/guide/writing-in-latex.
+Although we can accept submissions in LaTeX, the build system for your article will convert this to HTML using MyST Markdown. MyST allows markdown (`.md`) and/or `.tex` files to be used interchangeably in your article, so you can write in LaTeX while using the `myst` and `curvenote` command line tools to build and preview your article. Find out more about LaTeX support in MyST Markdown here: https://mystmd.org/guide/writing-in-latex.
 
-If you choose to submit using MyST Markdown you will be making your submission via GitHub, knowledge of Git and GitHub-based fork, PR and review workflows is required.
+If you choose to submit using MyST Markdown or LaTeX you will be making your submission via GitHub, knowledge of Git and GitHub-based fork, PR and review workflows is required.
 
 To make your submission follow the instructions on the proceedings GitHub repo: https://github.com/curvenote/good-proceedings.
 
-## Microsoft Word (docx)
+## Microsoft Word
 
 You can also submit directly in a Microsoft Word file. In order to prepare your submission, please download the Microsoft Word template (link) and follow the instructions within.
 
