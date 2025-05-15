@@ -1,9 +1,14 @@
 ---
 title: Instructions for Authors
 short_title: Author Instructions
+downloads:
+  - file: ./templates/good-word-template.docx
+    title: Download MS Word Template
 ---
 
-Speakers at the GOOD Conference are invited to submit a full-length article to be included in the conference proceedings.
+Speakers at the GOOD Conference are invited to submit a [full-length article](#articles) to be included in the conference proceedings as well as deposit their [slides or poster](#slides-and-posters) for inclusion in the proceedings.
+
+# Articles
 
 Articles can be submitted in one of the following formats:
 
@@ -31,8 +36,16 @@ To make your submission follow the instructions on the proceedings GitHub repo: 
 
 ## Microsoft Word
 
-You can also submit directly in a Microsoft Word file. In order to prepare your submission, please download the Microsoft Word template (link) and follow the instructions within.
+You can also submit directly in a Microsoft Word file. In order to prepare your submission, please [download the MS Word template](./templates/good-word-template.docx) and follow the instructions within.
 
-Once your submission is ready, you can submit using the form here.
+Once your submission is ready, you can submit using the form here: https://forms.gle/5Zk9cvKxr7pgRB3DA.
 
 After submission, your article will be converted to MyST Markdown and hosted in the proceedings' GitHub repo. At that point, you'll be provided with a link that you can use to preview your article. If you have an account on GitHub, you'll also be able to see the review of your article and read and respond to comments from editors.  
+
+
+# Slides and Posters
+
+You can depsoit your conference slides or posters in one of two ways:
+
+1. By opening a PR on the proceedings GitHub repository: https://github.com/curvenote/good-proceedings and adding your files in the `posters/` or `slides/` folder.
+2. By using the form here: https://forms.gle/QLvDVE9fj1m2wwJM6
