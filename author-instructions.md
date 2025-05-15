@@ -36,7 +36,7 @@ To make your submission follow the instructions on the proceedings GitHub repo: 
 
 ## Microsoft Word
 
-You can also submit directly in a Microsoft Word file. In order to prepare your submission, please [download the MS Word template](./templates/good-word-template.docx) and follow the instructions within.
+You can also submit directly in a Microsoft Word file. In order to prepare your submission, please [download the MS Word template](./templates/good-word-template.docx) and follow the instructions within. If you use a reference manager and are able to export a bibtex (.bib) file, submitting that along with your manuscript (optional) will help ensure accuracy when we process your references.
 
 Once your submission is ready, you can submit using the form here: https://forms.gle/5Zk9cvKxr7pgRB3DA.
 
