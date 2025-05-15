@@ -1,6 +1,9 @@
 ---
 title: Instructions for Authors
 short_title: Author Instructions
+downloads:
+  - file: ./templates/good-word-template.docx
+    title: Download MS Word Template
 ---
 
 Speakers at the GOOD Conference are invited to submit a [full-length article](#articles) to be included in the conference proceedings as well as deposit their [slides or poster](#slides-and-posters) for inclusion in the proceedings.
@@ -33,7 +36,7 @@ To make your submission follow the instructions on the proceedings GitHub repo: 
 
 ## Microsoft Word (docx)
 
-You can also submit directly in a Microsoft Word file. In order to prepare your submission, please download the Microsoft Word template (link) and follow the instructions within.
+You can also submit directly in a Microsoft Word file. In order to prepare your submission, please [download the MS Word template](./templates/good-word-template.docx) and follow the instructions within.
 
 Once your submission is ready, you can submit using the form here: https://forms.gle/5Zk9cvKxr7pgRB3DA.
 
